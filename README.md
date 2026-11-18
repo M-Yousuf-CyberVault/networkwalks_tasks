@@ -23,3 +23,8 @@ This repository documents the practical tasks, exercises, tools, and reports com
 - Used Google Hacking Database (GHDB)
 - Documented findings and prepared a technical report.
 
+### Week 3 – Password Cracking & Hash Analysis
+- Installed and configured **John the Ripper (JTR)** along with its GUI frontend, **Johnny**.
+- Extracted password hashes from provided PDF files using **OnlineHashCrack**.
+- Executed dictionary/cracking attacks on the extracted hashes using Johnny to recover the passwords.
+- Practiced additional hash generation and password cracking using **NetworkWalks** online tools.
